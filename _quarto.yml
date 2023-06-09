@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "portfolio"
+  navbar:
+    left: 
+      - text: Resume
+        href: resume.qmd
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
