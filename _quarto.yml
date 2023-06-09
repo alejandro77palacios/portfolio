@@ -1,5 +1,8 @@
 project:
   type: website
+  preview:
+      port: 4200
+      browser: false
 
 website:
   title: "portfolio"
@@ -7,12 +10,15 @@ website:
     left: 
       - text: Resume
         href: resume.qmd
+      - text: University Performance
+        href: university.qmd
     right:
       - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mauricio-alejandro-prieto-palacios-a26682245/
+
 format:
   html:
     theme: cosmo

@@ -16,15 +16,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "portfolio",
+    "title": "My projects",
     "section": "",
     "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJun 6, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJun 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "MyAbout",
+    "title": "About Me",
     "section": "",
-    "text": "About this blog"
+    "text": "You can check my professional certification here. You can find more details about the skills evaluated here."
+  },
+  {
+    "objectID": "university.html",
+    "href": "university.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "My university performance"
   }
 ]
