@@ -2,5 +2,5 @@
 <iframe
   width="700"
   height="700"
-  src="university_performance.pdf">
+  src="resources/performance.pdf">
 </iframe>
