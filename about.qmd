@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-image: u.jpeg
+image: resources/portrait.jpeg
 about:
   template: jolla
   links:
@@ -10,11 +10,11 @@ about:
     - icon: github
       text: Github
       href: https://github.com/alejandro77palacios
-    - icon: u.jpeg
+    - icon: resources/datacamp.svg
       text: Datacamp
       href: https://www.datacamp.com/profile/alexpalacios77
 
 ---
 
-You can check my professional certification [here](https://www.datacamp.com/certificate/DS0022675540069). 
+You can check my professional certification [here](https://www.datacamp.com/certificate/DS0022675540069).
 You can find more details about the skills evaluated [here](https://assets.datacamp.com/email/other/ds-certification-whitepaper.pdf).
