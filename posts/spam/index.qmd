@@ -1,0 +1,34 @@
+---
+title: "I deployed a spam detector online!"
+author: "Mauricio Alejandro Prieto Palacios"
+categories: [django, ML, analysis, classification]
+image: "spam.png"
+format:
+    html:
+        theme: pulse
+        toc: true
+        code-fold: true
+        code-tools: true 
+        highlight-style: arrow
+        toc-title: Contents
+        anchor-sections: true
+        link-external-icon: true
+        code-block-bg: false
+        code-block-border-left: "#3C7E00" 
+        embed-resources: true
+        fig-align: center
+      
+---
+
+::: {.callout-note}
+## Try it out now!
+The model is already deployed, check it out [here!](https://spam-detection.herokuapp.com/)
+
+You can visit the repository of the project [here](https://github.com/alejandro77palacios/spam_detection).
+:::
+
+You just need to input the text of the sms, whereupon the model outputs a prediction (spam or ham) along with the probability that it is true.
+
+I created this project using Django and Heroku. Thanks to this, the code is modular, easy to read and, above all, to maintain.
+
+The data for training is publicly available online. 
