@@ -16,5 +16,9 @@ about:
 
 ---
 
-You can check my professional certification [here](https://www.datacamp.com/certificate/DS0022675540069).
-You can find more details about the skills evaluated [here](https://assets.datacamp.com/email/other/ds-certification-whitepaper.pdf).
+Although I studied actuarial science, I consider myself more of a mathematician. I have worked as a data scientist and programmer for over two years.
+
+You can check my professional data science certification [here](https://www.datacamp.com/certificate/DS0022675540069).
+Find out more details about the skills evaluated [here](https://assets.datacamp.com/email/other/ds-certification-whitepaper.pdf).
+
+I've been working as a freelance for several months. Feel free to have a look my clients' [opinions](https://www.upwork.com/freelancers/~01610b41144bdeb521?viewMode=1) about my work.
