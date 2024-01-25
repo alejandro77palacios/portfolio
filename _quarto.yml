@@ -10,6 +10,8 @@ website:
     left: 
       - text: Resume
         href: resume.qmd
+      - text: My Skills
+        href: skills.qmd
       - text: University Performance
         href: university.qmd
     right:

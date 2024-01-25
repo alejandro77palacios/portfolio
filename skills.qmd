@@ -1,0 +1,29 @@
+---
+title: "My skills"
+---
+
+Read more about the tools I use and how.
+
+-   **Python**: I love this language because I am able to use it for different purposes like data science, OOP and web development. I consider myself proficient and it is my main programming language. In the machine learning life cycle I can ingest, validate, clean and transform data as well as train models and asses them.
+
+-   **R**: Data manipulation, EDA and Statistical analysis can be carried out in a particularly easy and elegant way with R. This language has a lot of unique features I like to use in a functional programming style, allowing me to create neat code. Prominently, the plots I have created with ggplot are flawless and a pleasure to design.
+
+-   **SQL**: I can build and design relational databases from scratch. I like to keep everything in the right place, bringing advantages like simpler queries and smaller URMs. I like using raw SQL but I often find more useful ORMs like SQL alchemy because the workflow inside python becomes nimbler and easier to debug.
+
+-   **Python package development**: I strongly encourage companies to build their own private packages. They are fully-tested solutions for common tasks. Here I use further techniques like unit testing ---with pytest--- and CI ---with GitHub actions--- that guarantees they work appropriate and efficiently.
+
+-   **Django**: Even though I am not a web developer, I use Django for machine learning models deployment. I like creating views and templates with IDE assistance and I have even deployed an [spam detector](https://alexpalacios77.quarto.pub/portfolio/posts/spam/).
+
+-   **Web scraping**: I understand how HTML is structured and can exploit it to convert messy data into tidy and reliable data. I can also perform web crawling to get a big amount of data in seconds through websites with several structure or with a lot of pages. I have automated several different tasks with specialised tools like playwright or selenium, saving hours of work every month.
+
+-   **CLI**: I use it every day. It is a very efficient way to work with files and automate tasks. When I work for a client, I often start by giving them a CLI app since is the simplest way to wrap the code and allows them to use the solution as soon as possible. In my view this is the most basic and usted tool in software development.
+
+-   **Unit testing**: Ensuring my code works as I expect is paramount, but the real benefit of unit testing is that I can extend the code confidently. In data science I often have to create a lot of new functions and here is when testing becomes very useful.
+
+-   **Git**: All of my projects are saved online thanks to git. I have experience solving the most common problems in VCS. I like writing clear and short comming messages so that the history of the project is well documented.
+
+-   **GitHub Actions (CI)**: There are several tasks that I automate with this tool. It is a great way to save time and ensure the quality of the code when it leaves my computer. I use it mainly for package development.
+
+-   **Docker**: Working in an isolated environment allows me to be sure that my code works in other computers. I have created a couple of containers and they let me sending machine learning models that work independently.
+
+-   **IDE**: Productivity is really important for me and that is why I love PyCharm. It is reliable and saves me a lot time every day. I have spent some time learning how to use it in the best possible way and it keeps paying dividends.
