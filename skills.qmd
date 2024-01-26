@@ -2,7 +2,7 @@
 title: "My skills"
 ---
 
-Read more about the tools I use and how.
+Read more about the tools I use and how. You can check my certificates [here](https://alejandro77.notion.site/Certificates-68769ec3635242c685cb39f2ab3e324a).
 
 -   **Python**: I love this language because I am able to use it for different purposes like data science, OOP and web development. I consider myself proficient and it is my main programming language. In the machine learning life cycle I can ingest, validate, clean and transform data as well as train models and asses them.
 
